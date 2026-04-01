@@ -1,0 +1,22 @@
+# 依赖包
+node_modules/
+
+# 构建产物
+dist/
+dist-ssr/
+*.local
+
+# 环境变量文件
+.env
+.env.local
+.env.*.local
+
+# IDE 配置文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
